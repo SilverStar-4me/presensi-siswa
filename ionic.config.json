@@ -1,0 +1,8 @@
+{
+  "name": "Presensi Siswa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b9cb26be"
+}
